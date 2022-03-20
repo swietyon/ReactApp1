@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+Monster app based on React Developer Course in 2022 (w/ Redux, Hooks, GraphQl)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
