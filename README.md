@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 Monster app based on React Developer Course in 2022 (w/ Redux, Hooks, GraphQl)
-<img src='https://res.cloudinary.com/swietyon/image/upload/v1647789437/appJPG_htogtj.jpg' width=500px height=300px />
+<img src='https://res.cloudinary.com/swietyon/image/upload/v1647789437/appJPG_htogtj.jpg' width=700px height=400px />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
