@@ -3,8 +3,17 @@
   border: none;
   outline: none;
   justify-content: center;
+  background-color: rgb(247, 101, 101);
   padding: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  border-radius: 5px;
   width: 150px;
   line-height: 30px;
   margin-bottom: 30px;
+}
+
+input {
+  color:black;
 }
